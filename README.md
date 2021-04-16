@@ -16,7 +16,7 @@ I have been studying IT-related topics since 2018, specifically front-end and ba
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cezar88augusto/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cezar88augusto/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/cezar88moreira)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" background-color="black" src="https://github-readme-stats.vercel.app/api?username=cezar88augusto&show_icons=true&theme=demo)"](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="100px" align="center" background-color="black" src="https://github-readme-stats.vercel.app/api?username=cezar88augusto&show_icons=true&theme=demo)"](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezar88augusto&layout=dark)](https://github.com/anuraghazra/github-readme-stats" />
