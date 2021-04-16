@@ -1,6 +1,3 @@
-<!--
-**cezar88augusto/cezar88augusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hey! 👋
 
 My name is Cézar Moreira, I'm brazilian and graduated in Systems analysis and Logistics.
