@@ -2,7 +2,7 @@
 
 My name is Cézar Moreira, I'm brazilian and graduated in Systems analysis and Logistics.
 
-I have been studying IT-related topics since 2018, specifically front-end and back-end. These topics have always caught my attention and I have always been very curious to know how things work behind the scenes. I really enjoy solving problems and learning new things. I am always open to new challenges and ready to face changes. 
+I have been studying IT-related topics since 2018, specifically front-end and back-end. These topics have always caught my attention cause I always had curious to know how things work behind the scenes. I really enjoy solving problems and learning new things. I am always open to new challenges and ready to face changes. 
 
 - 📍 From Minas Gerais living in BH
 - 🎓 Systems Analyst
