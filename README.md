@@ -22,3 +22,4 @@ I have been studying IT-related topics since 2018, specifically front-end and ba
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cezar88augusto&amp;layout=compact&amp;theme=material-palenight" />
 </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
