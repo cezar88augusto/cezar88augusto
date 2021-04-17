@@ -19,6 +19,6 @@ I have been studying IT-related topics since 2018, specifically front-end and ba
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cezar88augusto&amp;show_icons=true&amp;include_all_commits=true&amp;theme=material-palenight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=richtextformat;layout=compact&amp;theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=richtextformat,glsl;layout=compact&amp;theme=material-palenight" />
 </a>
 
