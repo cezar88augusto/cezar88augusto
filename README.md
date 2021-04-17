@@ -4,12 +4,12 @@ My name is Cézar Moreira, I'm brazilian and graduated in Systems analysis and L
 
 I have been studying IT-related topics since 2018, specifically front-end and back-end. These topics have always caught my attention cause I always had curious to know how things work behind the scenes. I really enjoy solving problems and learning new things. I am always open to new challenges and ready to face changes. 
 
-- 📍 From Minas Gerais living in BH
-- 🎓 Systems Analyst
-- 🎓 Logistics Analyst
+- 📍 From Minas Gerais living in BH;
+- 🎓 Systems Analyst;
+- 🎓 Logistics Analyst;
+- 📚 Studying Web Development;
 - 🌱 I’m currently learning: JavaScript, NodeJs, Sql and MongoDB.
 
-### 🌎"Doubt is the beginning of wisdom." 🧠
 
 📫 How to reach me 👇
 
@@ -22,4 +22,4 @@ I have been studying IT-related topics since 2018, specifically front-end and ba
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cezar88augusto&amp;show_icons=true&amp;include_all_commits=true&amp;theme=material-palenight" />
 </a>
 
-
+#### 🌎"Doubt is the beginning of wisdom." 🧠
