@@ -9,7 +9,7 @@ I have been studying IT-related topics since 2018, specifically front-end and ba
 - 🎓 Logistics Analyst
 - 🌱 I’m currently learning: JavaScript, NodeJs, Sql and MongoDB.
 
-##### 🌎"Doubt is the beginning of wisdom." 🧠
+### 🌎"Doubt is the beginning of wisdom." 🧠
 
 📫 How to reach me 👇
 
