@@ -42,5 +42,5 @@ Databases:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cezar88augusto&amp;show_icons=true&amp;include_all_commits=true&amp;theme=material-palenight" />
 </a 
 
-
+<br>
 #### 🌎"Doubt is the beginning of wisdom." 🧠
