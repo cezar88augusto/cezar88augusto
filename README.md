@@ -9,7 +9,7 @@ I have been studying IT-related topics since 2018, specifically front-end and ba
 - 🎓 Logistics Analyst;
 - 📚 Studying Web Development;
 
-🌱 I’m currently learning: 
+### 🌱 I’m currently learning: 
 
 Programming Languages: 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -27,7 +27,7 @@ Databases:
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
-📫 How to reach me 👇
+### 📫 How to reach me 👇
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cezar88augusto/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cezar88augusto/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/cezar88moreira)
 
