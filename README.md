@@ -43,7 +43,4 @@ I have been studying IT-related topics since 2018, specifically front-end and ba
    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
    
-
-    <a target="_blank" rel="noopener noreferrer" 
-
 #### 🌎"Doubt is the beginning of wisdom." 🧠
