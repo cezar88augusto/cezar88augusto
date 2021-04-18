@@ -9,7 +9,7 @@ I have been studying IT-related topics since 2018, specifically front-end and ba
 - 🎓 Logistics Analyst;
 - 📚 Studying Web Development.
 
-### 🌱 I’m currently learning: 
+### 🌱 I usually code with 👇
 
 Programming Languages: 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25px"/>
