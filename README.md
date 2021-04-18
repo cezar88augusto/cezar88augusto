@@ -8,7 +8,7 @@ I have been studying IT-related topics since 2018, specifically front-end and ba
 - 🎓 Systems Analyst;
 - 🎓 Logistics Analyst;
 - 📚 Studying Web Development.
-
+bulb
 ### 🌱 I usually code with 👇
 
 Programming Languages: 
