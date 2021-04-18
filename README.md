@@ -23,6 +23,7 @@ I have been studying IT-related topics since 2018, specifically front-end and ba
 </a
   
 <br>
+<br>
    Programming Languages
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
