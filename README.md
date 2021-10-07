@@ -7,7 +7,7 @@ I have been studying IT-related topics since 2018, specifically front-end and ba
 - 📍 From Minas Gerais living in BH;
 - 🎓 Systems Analyst;
 - 🎓 Logistics Analyst;
-- 📚 Studying Web Development.
+- 📚 Web Development.
 
 ### 💡 I usually code with 👇
 
